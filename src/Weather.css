@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+
+.navbar{
+    
+    color: white;
+    background-color: rgb(14, 14, 51);
+    
+}
+.navbar a{
+    color: white;
+}
+
+
+.logo{
+    height: 50px;
+    width: 70px; 
+
+}
